@@ -9,7 +9,7 @@ spec:
     server: https://kubernetes.default.svc 
   project: default 
   source: 
-    path: bubble-animation/application-mainfest
+    path: bubble-animation/application-manifest
     repoURL: https://github.com/fadefa88/argocd-openshift
     targetRevision: main
   syncPolicy: 
